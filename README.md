@@ -248,7 +248,12 @@ What do you think?
 
 ## Conclusion
 
-As with all of the tools in the programmers toolbox (that's a good book title), there are times when you should/shouldn't/couldn't use a dictionary for more than just storing simple key: values. Swift has given us some flexibility with the different data types and using things such as typealiasing, we can present a familiar and consistent interface where these techniques can sit alongside our existing code.
+Being _declarative_ and upfront with what we want to happen can help us to define the behaviours in our code, capture failure states more gracefully all whilst reducing the number of lines of code.
+
+As with all of the tools in the programmers toolbox (that's a good book title), there are times when you should/shouldn't/couldn't use a dictionary for more than just storing simple key: values. 
+
+Swift has given us some flexibility with the different data types and using things such as typealiasing, we can present a familiar and consistent interface where these techniques can sit alongside our existing code.
+
 
 A Swift playground with all of these examples is available to play around with and explore this concept further. 
 
