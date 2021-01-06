@@ -11,7 +11,7 @@ Developers use them all the time because they're simple to understand, flexible 
 
 If you're not too familiar with dictionaries though, here's a simple example.
 
-    let favouriteFruits: [String: String] = ["Steve", "Blackberry",
+    let favouriteFruits: [String: String] = ["Steve": "Blackberry",
                                             "Tim": "Apple",
                                             "Craig": "Cabbage"]
 
